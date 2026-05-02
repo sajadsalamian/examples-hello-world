@@ -43,7 +43,7 @@ await loadEnvFromFile();
 // 🔐 Main PSK (Pre-Shared Key) for authentication
 // Read from environment variable PSK
 // ============================================
-const PSK = Deno.env.get("PSK") || "CHANGE_ME_TO_A_STRONG_SECRET";
+const PSK = Deno.env.get("PSK") || "sajad1742@#!!9asdasdasd";
 
 // ============================================
 // ⚙️ Optional configuration from environment
